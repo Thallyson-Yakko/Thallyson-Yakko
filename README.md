@@ -1,4 +1,4 @@
-👋 Hello, I'm Thallyson 
+👋 Hello, I'm Thallyson S..
 - 👀 I'm interested in dev vacancies.
 - 🌱 I'm currently doing my second degree at IFPB.
 - 🔭 In the tireless search for the holy grail of python and javascript...
