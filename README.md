@@ -1,7 +1,7 @@
 👋 Hello, I'm Thallyson S..
 - 👀 I'm interested in DevOps vacancies.
 - 🌱 I'm currently doing my second degree at IFPB in computer networks.
-- 🔭 In the tireless search for the holy grail of golang and java.
+- 🔭 In the tireless search for the holy grail of golang.
 
 
 
